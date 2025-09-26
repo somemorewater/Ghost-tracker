@@ -1,0 +1,23 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost Tracker</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <header>☣ Ghost Tracker ☣</header>
+    <main>
+      <input class="input-box" id="query" placeholder="Enter IP, phone, or username...">
+      <button class="btn" onclick="track()">Track</button>
+      <div class="results" id="results">Results will show here...</div>
+    </main>
+
+    <div class="matrix-bg">
+      <canvas id="matrixCanvas"></canvas>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+  </html>

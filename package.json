@@ -1,0 +1,32 @@
+{
+  "name": "ghosttrack",
+  "version": "1.0.0",
+  "description": "Useful tool to track location or mobile number, so this tool can be called osint or also information gathering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunxByts/GhostTrack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HunxByts/GhostTrack/issues"
+  },
+  "homepage": "https://github.com/HunxByts/GhostTrack#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
