@@ -38,7 +38,7 @@ app.post("/api/track", (req, res) => {
     mode = "username"; // default to username if not IP/phone
   }
 
-  const py = spawn("/home/water/Documents/GhostTrack/python/venv/bin/python3", [
+  const py = spawn("python3", [
     "./python/ghosttrack.py",
     "--mode",
     mode,
