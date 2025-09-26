@@ -145,16 +145,5 @@ Content-Type: application/json
 
 ---
 
-## Future Improvements
 
-* Integrate X/Twitter API for complete data.
-* Add more social media platforms (Facebook, LinkedIn, Pinterest).
-* Enhance phone number info with Truecaller API (requires API key).
-* Improve frontend with modern design and responsive layout.
-
-```
-
-I can also make a **version with example outputs** for each platform so your README looks fully professional and ready for GitHub.  
-
-Do you want me to add that?
 ```
