@@ -1,6 +1,4 @@
-Got yu, Water . Here s`Amd` filadto
 
-````markdown
 # GhostTrack
 
 GhostTrack is a backend service and CLI tool for tracking **IP addresses, phone numbers, and usernames** across multiple social media platforms. It fetches publicly available information using Python and exposes it via an Express.js backend.
