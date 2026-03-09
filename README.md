@@ -1,4 +1,4 @@
-Got yu, Water . Here s`Amd` filready to
+Got yu, Water . Here s`Amd` fileady to
 
 ````markdown
 # GhostTrack
