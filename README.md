@@ -1,4 +1,4 @@
-Got yu, Water . Here s`AMmd` file ready to
+Got yu, Water . Here s`Amd` file ready to
 
 ````markdown
 # GhostTrack
