@@ -1,4 +1,4 @@
-Got you, Water . Here' s`EADME.md` file ready to use
+Got you, Water . Here' s`EAME.md` file ready to use
 
 ````markdown
 # GhostTrack
