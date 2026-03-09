@@ -1,4 +1,4 @@
-Got you, Water . Here's a single `README.md` file ready to use:
+Got you, Water . Here's a singl `README.md` file ready to use:
 
 ````markdown
 # GhostTrack
