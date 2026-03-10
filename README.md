@@ -51,7 +51,7 @@ pip install requests phonenumbers beautifulsoup4
 
 ### Node.js
 
-* Node.js 16+
+* Node.js 18+
 * Packages:
 
 ```bash
